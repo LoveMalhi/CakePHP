@@ -229,3 +229,2375 @@ Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
 
 
 
+2015-11-04 13:49:35 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 13:49:52 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 13:51:37 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 13:58:28 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 13:58:36 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:00:35 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:03:06 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:03:35 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:03:43 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:03:54 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:04:45 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:04:49 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:04:56 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:06:17 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:07:35 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:08:30 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:08:56 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:10:18 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:14:50 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:17:28 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:17:36 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:19:21 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:21:59 Notice: Notice (8): Undefined variable: form in [C:\xampp\htdocs\CakePHP\src\Template\Users\login.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Users\login.ctp, line 4
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 972
+Cake\View\View::_render() - CORE\src\View\View.php, line 932
+Cake\View\View::render() - CORE\src\View\View.php, line 580
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 598
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:22:01 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:22:11 Notice: Notice (8): Undefined variable: form in [C:\xampp\htdocs\CakePHP\src\Template\Users\login.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Users\login.ctp, line 4
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 972
+Cake\View\View::_render() - CORE\src\View\View.php, line 932
+Cake\View\View::render() - CORE\src\View\View.php, line 580
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 598
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:22:13 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:22:23 Notice: Notice (8): Undefined variable: form in [C:\xampp\htdocs\CakePHP\src\Template\Users\login.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Users\login.ctp, line 4
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 972
+Cake\View\View::_render() - CORE\src\View\View.php, line 932
+Cake\View\View::render() - CORE\src\View\View.php, line 580
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 598
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 14:22:25 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 16:58:40 Notice: Notice (8): Undefined variable: form in [C:\xampp\htdocs\CakePHP\src\Template\Users\login.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Users\login.ctp, line 4
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 972
+Cake\View\View::_render() - CORE\src\View\View.php, line 932
+Cake\View\View::render() - CORE\src\View\View.php, line 580
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 598
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 16:58:44 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 16:58:55 Notice: Notice (8): Undefined variable: form in [C:\xampp\htdocs\CakePHP\src\Template\Users\login.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Users\login.ctp, line 4
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 972
+Cake\View\View::_render() - CORE\src\View\View.php, line 932
+Cake\View\View::render() - CORE\src\View\View.php, line 580
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 598
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 16:58:58 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 16:59:33 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 16:59:57 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:10:34 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:14:05 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:19:15 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:19:15 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:19:17 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:20:16 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:20:16 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:20:18 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:21:00 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:21:00 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:21:00 Notice: Deprecated (16384): SessionHelper has been deprecated. Use request->session() instead. in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\Helper\SessionHelper.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\SessionHelper::__construct() - CORE\src\View\Helper\SessionHelper.php, line 39
+Cake\View\HelperRegistry::_create() - CORE\src\View\HelperRegistry.php, line 143
+Cake\Core\ObjectRegistry::load() - CORE\src\Core\ObjectRegistry.php, line 93
+Cake\View\HelperRegistry::__isset() - CORE\src\View\HelperRegistry.php, line 67
+Cake\View\View::__get() - CORE\src\View\View.php, line 868
+include - APP/Template\Users\login.ctp, line 2
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 972
+Cake\View\View::_render() - CORE\src\View\View.php, line 932
+Cake\View\View::render() - CORE\src\View\View.php, line 580
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 598
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:21:02 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:22:28 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:22:28 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:22:31 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:31 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:31 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:34 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:39 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:39 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:39 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:23:41 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:04 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:04 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:05 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:07 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:15 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:15 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:16 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:18 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:37 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:37 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:37 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:39 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:45 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:45 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:45 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:45 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:27:47 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:28:05 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:28:05 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:28:05 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 36
+App\Controller\UsersController::add() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:28:07 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:34 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:34 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:34 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 36
+App\Controller\UsersController::add() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:36 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:46 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:46 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:30:47 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:32:28 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:32:28 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:32:31 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:34:08 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:34:08 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:34:11 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:36:02 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:36:02 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:36:04 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:34 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:34 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:37 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:49 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:49 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:49 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:39:51 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:09 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:09 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:09 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:11 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:34 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:34 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:35 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 51
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:36 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:57 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:57 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:40:59 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:41:04 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:41:04 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:41:04 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 110
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 153
+Cake\Controller\Component\FlashComponent::error() - APP/Controller\UsersController.php, line 36
+App\Controller\UsersController::add() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 416
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:41:06 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:42:10 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:42:10 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:44:14 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:44:14 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(App\Controller\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\UsersController.php, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\UsersController.php, line 8
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 17:44:16 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 18:29:16 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\PagesController.php, line 29
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 18:29:22 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 18:30:41 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\PagesController.php, line 29
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 18:30:45 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:00:44 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\PagesController.php, line 29
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:00:48 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:01:28 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\PagesController.php, line 29
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:01:30 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:09:19 Notice: Strict (2048): Declaration of App\Controller\AppController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\xampp\htdocs\CakePHP\src\Controller\AppController.php, line 28]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Controller\AppController.php, line 28
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+include - APP/Controller\PagesController.php, line 29
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 89
+Cake\Core\App::className() - CORE\src\Core\App.php, line 66
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 81
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 49
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:09:22 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:09:56 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:13:59 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 19:33:45 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:30:18 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:31:10 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:31:34 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:32:33 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:32:58 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:35:38 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:36:22 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:36:26 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:37:07 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:39:06 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:39:55 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:43:55 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:44:57 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:45:14 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:46:02 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-04 20:46:11 Notice: Deprecated (16384): Property $layout is deprecated. Use $this->viewBuilder()->layout() instead in beforeRender(). in [C:\xampp\htdocs\CakePHP\vendor\cakephp\cakephp\src\View\ViewVarsTrait.php, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::createView() - CORE\src\View\ViewVarsTrait.php, line 98
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 597
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
